@@ -1,0 +1,21 @@
+{
+  "name": "kondor-design",
+  "version": "1.0.0",
+  "description": "Kondor Design System",
+  "main": "index.js",
+  "repository": "https://github.com/poulzinho/kondor.git",
+  "author": "Paul Gualotuna <paul.gualotuna.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -cw"
+  },
+  "devDependencies": {
+    "rollup": "^2.7.6",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
