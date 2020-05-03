@@ -103,5 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
-#Intellij IDEA
+# Intellij IDEA
 .idea
+
+# Tests
+test
