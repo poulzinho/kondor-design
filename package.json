@@ -40,7 +40,7 @@
     "mocha": "^7.1.2",
     "puppeteer": "^3.0.2",
     "rollup": "^2.7.6",
-    "semantic-release": "^17.0.7",
+    "semantic-release": "^17.2.3",
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
   },
